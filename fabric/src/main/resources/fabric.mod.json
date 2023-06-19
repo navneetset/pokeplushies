@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "cobbledstats",
+  "id": "pokeplushie",
   "version": "${version}",
-  "name": "cobbledstats",
+  "name": "pokeplushie",
   "description": "",
   "authors": [],
   "contact": {},
@@ -12,7 +12,7 @@
   "entrypoints": {
     "main": [
       {
-        "value": "tech.sethi.pebbles.cobbledstats.fabric.CobbledStatsFabric"
+        "value": "tech.sethi.pebbles.pokeplushie.fabric.PokePlushieFabric"
       }
     ]
   },

@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cobbled-stats.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cobbled-stats.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cobbled-stats.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cobbled-stats.common.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cobbled-stats.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cobbled-stats.common.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/cobbled-stats.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/cobbled-stats.fabric.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/cobbled-stats.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/cobbled-stats.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/cobbled-stats.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/cobbled-stats.forge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/cobbled-stats.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/cobbled-stats.forge.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pebblespokecandies.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pebblespokecandies.common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pebblespokecandies.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pebblespokecandies.common.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pebblespokecandies.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pebblespokecandies.common.test.iml" />

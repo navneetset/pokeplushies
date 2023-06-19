@@ -39,16 +39,6 @@ dependencies {
     shadowCommon("net.kyori:adventure-text-serializer-gson:${property("minimessage_version")}")
     shadowCommon("net.kyori:adventure-text-serializer-legacy:${property("minimessage_version")}")
 
-    implementation("org.mongodb:mongodb-driver-core:4.10.0-alpha0")
-    implementation("org.mongodb:mongodb-driver-sync:4.10.0-alpha0")
-    implementation("org.mongodb:mongodb-driver-legacy:4.10.0-alpha0")
-    implementation("mysql:mysql-connector-java:8.0.33")
-
-    shadowCommon("org.mongodb:mongodb-driver-core:4.10.0-alpha0")
-    shadowCommon("org.mongodb:mongodb-driver-sync:4.10.0-alpha0")
-    shadowCommon("org.mongodb:mongodb-driver-legacy:4.10.0-alpha0")
-    shadowCommon("mysql:mysql-connector-java:8.0.33")
-
     modImplementation("com.cobblemon:fabric:1.3.1+1.19.2-SNAPSHOT") { isTransitive = false }
     shadowCommon(project(":common", configuration = "transformProductionFabric"))
 }

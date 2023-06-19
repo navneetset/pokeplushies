@@ -1,4 +1,4 @@
-package tech.sethi.pebbles.cobbledstats
+package tech.sethi.pebbles.pokeplushie
 
 import net.kyori.adventure.text.Component
 import net.kyori.adventure.text.format.TextDecoration
@@ -23,7 +23,7 @@ object PM {
         return Text.Serializer.fromJson(json) as Text
     }
 
-    private fun returnStyledJson(text: String): String {
+    fun returnStyledJson(text: String): String {
         val component = parseMessageWithStyles(text, "placeholder")
         val gson = GsonComponentSerializer.gson()
         val json = gson.serialize(component)
