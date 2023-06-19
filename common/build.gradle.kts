@@ -27,4 +27,8 @@ dependencies {
     modImplementation("com.cobblemon:mod:1.3.1+1.19.2-SNAPSHOT") { isTransitive = false }
 //    modImplementation(files("libs/pebbles-economy-1.0.0.jar"))
 
+    implementation("org.mongodb:mongodb-driver-core:4.10.0-alpha0")
+    implementation("org.mongodb:mongodb-driver-sync:4.10.0-alpha0")
+    implementation("org.mongodb:mongodb-driver-legacy:4.10.0-alpha0")
+    implementation("mysql:mysql-connector-java:8.0.33")
 }

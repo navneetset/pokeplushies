@@ -1,4 +1,4 @@
-package tech.sethi.pebbles.pokeplushie
+package tech.sethi.pebbles.cobbledstats
 
 import com.cobblemon.mod.common.api.pokemon.stats.Stats
 import com.cobblemon.mod.common.pokemon.Pokemon
