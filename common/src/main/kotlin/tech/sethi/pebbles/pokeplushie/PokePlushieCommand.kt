@@ -28,12 +28,12 @@ object PokePlushiesCommand {
 
                     if (success) {
                         ctx.source.sendFeedback(
-                            PM.returnStyledText("<aqua>You got a plushie!</aqua>"),
+                            { PM.returnStyledText("<aqua>You got a plushie!</aqua>") },
                             true
                         )
                         1
                     } else {
-                        PM.returnStyledText("<red>Failed to get a plushie!</red>")
+                        PM.returnStyledText("<red>Failed to get a plushie!</red>").also { ctx.source.sendFeedback({ it }, false) }
                         0
                     }
 

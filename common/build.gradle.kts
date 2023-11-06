@@ -15,7 +15,7 @@ loom {
 dependencies {
     minecraft("com.mojang:minecraft:${property("minecraft_version")}")
     // The following line declares the mojmap mappings, you may use other mappings as well
-    mappings("net.fabricmc:yarn:1.19.2+build.4:v2")
+    mappings("net.fabricmc:yarn:1.20.1+build.10:v2")
     // We depend on fabric loader here to use the fabric @Environment annotations and get the mixin dependencies
     // Do NOT use other classes from fabric loader
     modImplementation("net.fabricmc:fabric-loader:${property("fabric_loader_version")}")
@@ -24,7 +24,7 @@ dependencies {
     implementation("net.kyori:adventure-text-serializer-legacy:${property("minimessage_version")}")
     // Remove the next line if you don't want to depend on the API
     modApi("dev.architectury:architectury:${property("architectury_version")}") { isTransitive = false }
-    modImplementation("com.cobblemon:mod:1.3.1+1.19.2-SNAPSHOT") { isTransitive = false }
-//    modImplementation(files("libs/pebbles-economy-1.0.0.jar"))
+    modImplementation("com.cobblemon:mod:1.4.0+1.20.1") { isTransitive = false }
+    modImplementation(files("libs/pebbles-economy-1.0.0.jar"))
 
 }

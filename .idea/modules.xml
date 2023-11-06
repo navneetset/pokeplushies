@@ -16,6 +16,20 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/pokecandies.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/pokecandies.fabric.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/pokecandies.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/pokecandies.forge.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/pokecandies.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/pokecandies.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pokeplushies.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pokeplushies.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pokeplushies.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pokeplushies.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pokeplushies.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pokeplushies.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/pokeplushies.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/pokeplushies.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/pokeplushies.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/pokeplushies.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/pokeplushies.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/pokeplushies.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/pokeplushies.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/pokeplushies.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/tech.sethi.pebbles.pokeplushie.pokeplushies.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/tech.sethi.pebbles.pokeplushie.pokeplushies.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/tech.sethi.pebbles.pokeplushie.pokeplushies.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/tech.sethi.pebbles.pokeplushie.pokeplushies.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/tech.sethi.pebbles.pokeplushie.pokeplushies.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/tech.sethi.pebbles.pokeplushie.pokeplushies.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/tech.sethi.pebbles.pokeplushie.pokeplushies.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/tech.sethi.pebbles.pokeplushie.pokeplushies.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/tech.sethi.pebbles.pokeplushie.pokeplushies.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/tech.sethi.pebbles.pokeplushie.pokeplushies.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/tech.sethi.pebbles.pokeplushie.pokeplushies.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/tech.sethi.pebbles.pokeplushie.pokeplushies.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/tech.sethi.pebbles.pokeplushie.pokeplushies.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/tech.sethi.pebbles.pokeplushie.pokeplushies.forge.test.iml" />
     </modules>
   </component>
 </project>
